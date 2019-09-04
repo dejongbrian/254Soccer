@@ -1,0 +1,106 @@
+@media screen and (max-width:"400px"){
+    body{
+        background-image:auto;
+    }
+}
+
+
+body{
+    overflow:auto;
+}
+#gallery{
+    color:black;
+    display:flex;
+    padding-bottom:20px;
+    filter:blur(0px);
+    flex-direction:row;
+   
+}
+
+.tiempo,.phantom,#mercurial,#nike{
+    padding:50px;
+    font-size:20px;
+    box-shadow: 10px 10px 5px grey;
+}
+
+
+#adi{
+    color:black;
+}
+#adidas{
+    color:black;
+    display:flex;
+    padding-bottom:20px;
+    filter:blur(0px); 
+    flex-direction:row;
+}
+
+.predator,.nemeziz,#copa,#black{
+    padding:50px;
+    font-size:20px;
+    box-shadow: 10px 10px 5px grey;
+}
+h2{
+    font-size:50px;
+    color:black;
+    padding:10px;
+    margin:10px;
+
+}
+#puma{
+    color:black;
+    display:flex;
+    padding-bottom:20px;
+    filter:blur(0px); 
+    flex-direction:row;
+
+}
+
+.evo1,.evo2,.umbro1,.bal{
+    padding:50px;
+    font-size:20px; 
+    box-shadow: 10px 10px 5px grey;
+}
+h1{
+    font-size:7em;
+    color:black;
+    padding:10px;
+    margin:10px;
+    text-align: center;
+}
+nav{
+    color:black;
+    text-decoration:none;
+    font-size:x-large;
+    text-align:right;
+    
+}
+
+ul a:hover{
+    background-color:green;
+
+}
+a{
+    text-decoration: none;
+    padding:20px;
+}
+
+
+h2{
+    color:black;
+    font-size:x-large;
+    font-family:'Lucida Sans';
+
+}
+/* p{
+    font-size:xx-large;
+    color:blue;
+    text-decoration-color: aqua; */
+
+p{
+    color:black;
+    font-size:20px;
+    text-align:center;
+    align-items:bottom;
+}
+    
