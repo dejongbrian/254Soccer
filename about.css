@@ -66,14 +66,8 @@ a{
 .info{
     text-align: center;
     color:white;
-<<<<<<< HEAD
     width: auto;
     height: auto;
-=======
-    /* background-color:; */
-    width: 1300px;
-    height: 250px;
->>>>>>> 7593eba079eb563b9b46ed5dda8805bc06874499
     overflow: hidden;
     font-size:2em;
 }
