@@ -107,4 +107,12 @@ p{
     text-align:center;
     align-items:bottom;
 }
-    
+.home{
+    font-size:em;
+    font-family:'Times New Roman';
+    color:black;
+    font-size:1em;
+    text-align: center;
+    padding-bottom: 200px;
+
+} 

@@ -24,6 +24,15 @@ margin:0;
     padding-bottom: 200px;
     
 }
+.home{
+    font-size:em;
+    font-family:'Times New Roman';
+    color:whitesmoke;
+    font-size:1em;
+    text-align: center;
+    padding-bottom: 200px;
+
+}
 #overlay {
     position:relative; 
     bottom: 0; 
@@ -67,7 +76,7 @@ nav>ul>a:hover{
 a{
     text-align:right;
     text-decoration:none;
-    padding:10px;
+    padding:20px;
     color:white;
     font-size:x-large;
 
