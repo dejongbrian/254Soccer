@@ -61,14 +61,14 @@ nav{
 
 nav>ul>a:hover{
     box-shadow:5 5 10px;
-    background-color:gold;
+    background-color:green;
 
 }
 a{
     text-align:right;
     text-decoration:none;
     padding:20px;
-    color:cyan;
+    color:white;
     font-size:x-large;
 
 }
