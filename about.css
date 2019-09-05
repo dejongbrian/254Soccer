@@ -59,12 +59,11 @@ a{
 .info{
     /* text-justify: */
     text-align: center;
-    color:black;
+    color:white;
     /* background-color:; */
     width: 1300px;
     height: 250px;
     overflow: hidden;
-    box-shadow: green;
     font-size:2em;
 }
 
