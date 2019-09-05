@@ -6,6 +6,8 @@
 
 
 body{
+    /* margin:0;
+    padding:0; */
     overflow:auto;
 }
 #gallery{
@@ -24,8 +26,10 @@ body{
 }
 
 
+
 #adi{
     color:black;
+    
 }
 #adidas{
     color:black;

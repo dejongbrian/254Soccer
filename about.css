@@ -9,10 +9,8 @@ body{
     background-image:url("https://sites.create-cdn.net/siteimages/54/9/2/549204/15/9/5/15952087/500x500.jpg?1509611675");
     background-repeat:no-repeat;
     background-size:cover;
-    /* background: url(../img/bg.jpg) 0 0 no-repeat fixed;
-    height: 100%;
-    o
-    color: pink; */
+    margin:0;
+    padding:0;
     
 }
 #overlay {
@@ -31,13 +29,13 @@ h1{
         color:white;
         opacity:higher;
         padding:10px;
-        font-size:60px;
+        font-size:90px;
         
 }
 a{
     text-decoration:none;
     padding:20px;
-    color:black;
+    color:white;
     font-size:large;
 }
 #nav{
@@ -50,30 +48,27 @@ a{
 
     ul a:hover{
         background-color:green;
-    }
+    } 
  h2{
-      color:black;
-      font-size:large;
+      color:white;
+      font-size:40px;
    }      
 
 .info{
-    /* text-justify: */
     text-align: center;
-    color:black;
-    /* background-color:; */
-    width: 1300px;
-    height: 250px;
+    color:white;
+    width: auto;
+    height: auto;
     overflow: hidden;
-    box-shadow: green;
     font-size:2em;
 }
 
-#about{
+/* #about{
     text-align: center;
     box-shadow: 10px 10px 5px grey;
     font-size:1em;
 
-}
+} */
 
 
 

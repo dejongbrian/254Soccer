@@ -7,8 +7,7 @@
 
 body{
     background-image:url("https://thesefootballtimes.co/wp-content/uploads/2018/01/championsleague.jpg")
-    /* background-size:cover;
-    background-reapet:no-repeat; */
+   
 }
 .mr{
     font-family:Cambria;
@@ -51,7 +50,7 @@ a{
 
 }
 .cont{
-    color:darkblue;
+    color:white;
     margin:10px;
     text-align:center;
     font-size:30px;
