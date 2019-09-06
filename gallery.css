@@ -6,6 +6,8 @@
 
 
 body{
+    /* margin:0;
+    padding:0; */
     overflow:auto;
 }
 #gallery{
@@ -24,8 +26,10 @@ body{
 }
 
 
+
 #adi{
     color:black;
+    
 }
 #adidas{
     color:black;
@@ -103,4 +107,12 @@ p{
     text-align:center;
     align-items:bottom;
 }
-    
+.home{
+    font-size:em;
+    font-family:'Times New Roman';
+    color:black;
+    font-size:1em;
+    text-align: center;
+    padding-bottom: 200px;
+
+} 

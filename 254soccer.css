@@ -8,11 +8,12 @@
 }
 
 body{
-/* background-image:url('https://www.insidermedia.com/uploads/news/football_generic_pitch.jpg'); */
+
 background-image:url("https://design-chronicle.com/wp-content/uploads/2017/07/Unfold-Creative-Studio-In2Sports-Etobicoke-Gennifer-Buscemi-9.jpg");
 background-repeat:no-repeat;
 background-size:cover;
-
+padding:0;
+margin:0;
 }
 
 #home{
@@ -23,8 +24,27 @@ background-size:cover;
     padding-bottom: 200px;
     
 }
+/* .home{
+    
+    font-family:'Times New Roman';
+    color:whitesmoke;
+    font-size:4em;
+    text-align: center;
+    padding-bottom: 200px;
+
+} */
+#overlay {
+    position:relative; 
+    bottom: 0; 
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1; 
+    width: 100%;
+    height:100%;
+    text-align: center;
+    opacity: 2;
+  }
 p{  
-    /* padding-top: 350px; */
     color:orangered;
     text-align: center;
     font-size:1.5em;
@@ -50,14 +70,14 @@ nav{
 
 nav>ul>a:hover{
     box-shadow:5 5 10px;
-    background-color:gold;
+    background-color:green;
 
 }
 a{
     text-align:right;
     text-decoration:none;
     padding:20px;
-    color:cyan;
+    color:white;
     font-size:x-large;
 
 }
